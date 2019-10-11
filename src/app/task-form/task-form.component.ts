@@ -13,7 +13,7 @@ export class TaskFormComponent implements OnInit {
   constructor(private taskService: TaskService) { }
 
   @ViewChild('f', {static: false}) form: NgForm;
-  
+
   loading = false;
   errorMsg: string;
 

@@ -1,27 +1,11 @@
-# Practice
+# Task Timer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
+Project deployed [here](https://martinzatanasov.github.io/Task-Timer/)
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Angular 8, Bootstrap and Firebase real time database used. It is a project showing that I understand the core principles of angular8. Working with components, services, models and pipes. Basic quick inline styling with bootstrap. Saving the Tasks in firebase realtime database.
 
-## Code scaffolding
+It is an app where you can track the time spent working on a cerain project. You can create multiple tasks, start/pause them and save them in local storage and firebase. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
